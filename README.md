@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi there, I'm Shashank Gupta 👋</h1>
 <p align="center">
-  Computer Science Student | Backend Engineering Intern
+  Competitive Programmer || Backend Engineering Intern
 </p>
 
 ## About Me
 - 🎓 I am a Final-year Btech Undergraduate in Information Technology at Kamla Nehru Institute of Technology, Sultanpur
 - 💼 Backend Engineering Intern at Tickertape(Smallcase)
-- 🚀 Passionate about problem-solving and coding
+- 🚀 Passionate about Problem-solving and Backend development
 
 ## 💻 Technologies & Tools
 <p align="center">
@@ -34,7 +34,7 @@
 
 
 ## 🌐 Connect with Me
-- [Portfolio](https://theshashankgupta.github.io/personal_Portfolio/)
+- [Portfolio](https://portfolio-react-dusky-delta.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/shashank-gupta-a91035218/)
 - [GitHub](https://github.com/theShashankGupta)
 - [Email](mailto:shashankgupta11032002@gmail.com)
