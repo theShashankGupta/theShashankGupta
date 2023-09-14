@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Shashank Gupta 👋</h1>
 <p align="center">
-  Competitive Programmer || Backend Engineering Intern
+  Competitive Programmer || Backend Developer
 </p>
 
 ## About Me
