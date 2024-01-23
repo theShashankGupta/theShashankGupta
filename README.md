@@ -62,8 +62,8 @@
 </p>
 
 ## 🏆 Achievements
-- 🥇 [ICPC Regionalist](https://drive.google.com/file/d/1mlJz0n58GTchw_msfWxHnP4kNDyjs3_S/view?usp=sharing)
-- 🛡️ [LeetCode Knight](https://leetcode.com/shashank__11/)
+- 🥇 [2X ICPC Regionalist](https://drive.google.com/file/d/1mlJz0n58GTchw_msfWxHnP4kNDyjs3_S/view?usp=sharing)
+- 🛡️ [LeetCode GUARDIAN](https://leetcode.com/shashank__11/)
 - 🌟 [Codeforces Expert](https://codeforces.com/profile/shashank_11)
 - ⭐ [Codechef 5 Star](https://www.codechef.com/users/meet_the_pro)
 
