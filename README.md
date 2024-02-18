@@ -9,7 +9,7 @@
 
 ## About Me
 - 🎓 I am a Final-year Btech Undergraduate in Information Technology at Kamla Nehru Institute of Technology, Sultanpur
-- 💼 Backend Engineering Intern at Tickertape(Smallcase)
+- 💼 Backend Engineering Intern at Smallcase
 - 🚀 Passionate about Problem-solving and Backend development
 
 ## 💻 Technologies & Tools
