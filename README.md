@@ -61,6 +61,19 @@
   <!-- Add more icons for the technologies you know -->
 </p>
 
+## 🌠 Projects/Repositories
+
+- [**CP tutuorial**](https://github.com/theShashankGupta/cpTutorial): This project aims to create a platform for sharing articles, allowing users to save drafts, and enabling readers to comment on the posts.. (Techs. Used: HTML, CSS, Bootstrap, Express.js, Nodes.js, MongoDB)  [Accessible Link](https://cptutorials.cyclic.app/)
+
+- [**CP Visulizer**](https://github.com/theShashankGupta/cpTracker):Allows users to visualize the problems they have solved on competitive programming Codeforces, with different filters. It also calls the Kontest API to display upcoming contests for the user. (Techs. Used: HTML, CSS, Bootstrap, Nodes.js, Express.js, Chart.js) [Accessible Link](https://cp-tracker.cyclic.app/)
+
+- [**YT-Latest-video**](https://github.com/theShashankGupta/yt_latest_video_api): A Flask based simple app used to get the latest uploaded video on youtube of particular topic with custom time. (Techs. Used: Flask, SQLite)
+
+- [**SPV Application**](https://github.com/theShashankGupta/SPV_application): A app used to get the Stock price of all the registered stocks on BSE India and allowing one to add there fav stocks and providing its last 50 days Closing, opening , Max, Min price.  (Techs. Used: Node.js, Express.js, MongoDB)
+
+- [**Portfolio Tracking Api**](https://github.com/theShashankGupta/Portfolio-Tracking-Api): A basic app used to get the max, min and average price and list of all the stored stocks. (Techs. Used: Nest.js, MongoDB)
+
+
 ## 🏆 Achievements
 - 🥇 [2X ICPC Regionalist](https://drive.google.com/file/d/1mlJz0n58GTchw_msfWxHnP4kNDyjs3_S/view?usp=sharing)
 - 🛡️ [LeetCode GUARDIAN](https://leetcode.com/shashank__11/)
