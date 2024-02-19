@@ -96,5 +96,6 @@
 - [GitHub](https://github.com/theShashankGupta)
 - [Email](mailto:shashankgupta11032002@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=theShashankGupta&color=green)
 <!-- Add more sections as needed -->
 
